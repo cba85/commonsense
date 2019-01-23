@@ -1,0 +1,18 @@
+{
+    "name": "cba85/common-sense",
+    "description": "A friendly reminder to never forget to use common sense when coding a PHP project.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Clement Barbaza",
+            "email": "clement.barbaza@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "CommonSense\\": "src/"
+        }
+    }
+}
